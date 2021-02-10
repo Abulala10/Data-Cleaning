@@ -1,0 +1,2 @@
+# Data-Cleaning
+Command Line software to clean File and create a new file. Input single file using the -f or --file command and location of that file. If the user wants to create an output directory for that file then the user can do it by providing desired location with the associated commands . i.e -o or --output. This software fill in the missing values with either 0 or null values. If null values are provided then it cleans the rows that contain the null values. 
